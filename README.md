@@ -1,5 +1,8 @@
 # Living Room
 
+## Overview
+
+A WebGL implementation of a small living room. In which you can change perspective, move chairs, open draws, turn on lamps etc. Both texture mapping and normal mapping have been used at several points to give a sense of depth.
 
 ## Running the program
 
@@ -31,3 +34,15 @@ Only the libraries provided in your practicals have been used. Almost all textur
 - 3 overlapping spot lamps that hang over the table can be turned on and off
 - Texture mapping has been applied to all objects apart from the table and chairs, wall and lamps
 - Normal mapping has been applied to the floor, carpet and coffee table
+
+## Example
+
+![Screenshot from 2022-09-05 18-15-40](https://user-images.githubusercontent.com/30124151/188495690-f5043ab1-74c6-4298-8b9f-313de8f6b052.png)
+
+![Screenshot from 2022-09-05 18-16-00](https://user-images.githubusercontent.com/30124151/188495728-9ee88036-0646-4c03-86d0-3546b394fc41.png)
+
+![Screenshot from 2022-09-05 18-15-52](https://user-images.githubusercontent.com/30124151/188495718-eee7e6a2-e27d-4d87-8530-e7098ef34fb9.png)
+
+![Screenshot from 2022-09-05 18-16-31](https://user-images.githubusercontent.com/30124151/188495815-647a70e1-2197-4c2e-932c-2f0c2ddeeaf9.png)
+
+
